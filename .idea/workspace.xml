@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93838ef6-ede0-4ccc-9a9a-dc11872f74a0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project help.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/GistMeBlog/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/GistMeBlog/src/africa.semicolon.myEmailApp/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/GistMeBlog/src/controllers/ArticleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/GistMeBlog/src/africa.semicolon.myEmailApp/controllers/ArticleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/GistMeBlog/src/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/GistMeBlog/src/africa.semicolon.myEmailApp/controllers/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/GistMeBlog/src/data/models/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/GistMeBlog/src/africa.semicolon.myEmailApp/data/models/Article.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/GistMeBlog/src/data/models/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/GistMeBlog/src/africa.semicolon.myEmailApp/data/models/Comment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/GistMeBlog/src/data/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/GistMeBlog/src/africa.semicolon.myEmailApp/data/models/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/GistMeBlog/src/data/repositories/ArticleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/GistMeBlog/src/africa.semicolon.myEmailApp/data/repositories/ArticleRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/GistMeBlog/src/data/repositories/ArticleRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/GistMeBlog/src/africa.semicolon.myEmailApp/data/repositories/ArticleRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/GistMeBlog/src/data/repositories/CommentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/GistMeBlog/src/africa.semicolon.myEmailApp/data/repositories/CommentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/GistMeBlog/src/data/repositories/CommentRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/GistMeBlog/src/africa.semicolon.myEmailApp/data/repositories/CommentRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/GistMeBlog/src/data/repositories/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/GistMeBlog/src/africa.semicolon.myEmailApp/data/repositories/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/GistMeBlog/src/data/repositories/UserRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/GistMeBlog/src/africa.semicolon.myEmailApp/data/repositories/UserRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/GistMeBlog/src/dtos/requests/CreateArticleRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/GistMeBlog/src/africa.semicolon.myEmailApp/dtos/requests/CreateArticleRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/GistMeBlog/src/dtos/requests/RegisterRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/GistMeBlog/src/africa.semicolon.myEmailApp/dtos/requests/RegisterRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/GistMeBlog/src/dtos/responses/FindUserResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/GistMeBlog/src/africa.semicolon.myEmailApp/dtos/responses/FindUserResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/GistMeBlog/src/services/ArticleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/GistMeBlog/src/africa.semicolon.myEmailApp/services/ArticleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/GistMeBlog/src/services/ArticleServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/GistMeBlog/src/africa.semicolon.myEmailApp/services/ArticleServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/GistMeBlog/src/services/CommentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/GistMeBlog/src/africa.semicolon.myEmailApp/services/CommentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/GistMeBlog/src/services/CommentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/GistMeBlog/src/africa.semicolon.myEmailApp/services/CommentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/GistMeBlog/src/services/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/GistMeBlog/src/africa.semicolon.myEmailApp/services/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/GistMeBlog/src/services/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/GistMeBlog/src/africa.semicolon.myEmailApp/services/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/GistMeBlog/src/utils/Mapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/GistMeBlog/src/africa.semicolon.myEmailApp/utils/Mapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/GistMeBlog/test/data/repositories/ArticleRepositoryImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/GistMeBlog/test/data/repositories/ArticleRepositoryImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/GistMeBlog/test/data/repositories/CommentRepositoryImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/GistMeBlog/test/data/repositories/CommentRepositoryImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/GistMeBlog/test/data/repositories/UserRepositoryImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/GistMeBlog/test/data/repositories/UserRepositoryImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/GistMeBlog/test/services/ArticleServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/GistMeBlog/test/services/ArticleServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/GistMeBlog/test/services/UserServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/GistMeBlog/test/services/UserServiceImplTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/GistMeBlog" />
+  </component>
+  <component name="ProjectId" id="2MdyAJP4Atnx5PzRjMtXNp9p6AA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/IdeaProjects/project help&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93838ef6-ede0-4ccc-9a9a-dc11872f74a0" name="Changes" comment="" />
+      <created>1678111612085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678111612085</updated>
+      <workItem from="1678111613674" duration="8479000" />
+      <workItem from="1678363123370" duration="1750000" />
+      <workItem from="1678377538015" duration="1064000" />
+      <workItem from="1678384930084" duration="1579000" />
+      <workItem from="1678762897420" duration="438000" />
+      <workItem from="1678828599421" duration="2257000" />
+      <workItem from="1679043599287" duration="3411000" />
+      <workItem from="1679083036889" duration="783000" />
+      <workItem from="1680117520984" duration="329000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
